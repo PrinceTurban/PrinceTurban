@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrinceTurban
+- 👋 Hi, I’m @Prince Kay
 - 👀 I’m interested in websites 
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on other options 
